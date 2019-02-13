@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LCore:jar">
+    <output-path>$PROJECT_DIR$/../../Built Plugins/DuskHCF</output-path>
+    <root id="archive" name="LCore.jar">
+      <element id="module-output" name="LCore" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/items.cvs" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+    </root>
+  </artifact>
+</component>

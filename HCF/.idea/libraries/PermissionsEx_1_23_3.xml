@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="PermissionsEx-1.23.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Downloads/depend/PermissionsEx-1.23.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/depend/ProtocolLib (1).jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/depend/Vault.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/depend/worldedit-bukkit-6.0-beta-01.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Downloads/depend/worldguard-6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

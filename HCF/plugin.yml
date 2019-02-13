@@ -1,0 +1,97 @@
+name: HCF
+version: 2.3
+author: Payless
+main: com.customhcf.hcf.HCF
+softdepend: [ProtocolLib, TinyProtocolAPI]
+commands:
+  sotw:
+    description: Starts a 30 minute SOTW timer.
+  conquest:
+    description: Command used to handle Conquest events.
+  economy:
+    aliases: [bal, balance, money, eco]
+    description: Command used to modify the economy.
+  eotw:
+    description: Sets if the server is in End of the World mode.
+  serverevents:
+    description: Command used to manage minigame events.
+  faction:
+    aliases: [f, fac]
+    description: Faction related commands.
+  help:
+    aliases: ["?", "pl", "plugin"]
+    description: Find out more about this server.
+  lives:
+    description: Management of lives or deathbans.
+  logout:
+    aliases: [disconnect]
+    description: Command to safely logout without an NPC spawning.
+  key:
+    description: Obtain keys to unlock awesome loot.
+  pay:
+    description: Allow players to pay money.
+  pvptimer:
+    aliases: [pvp]
+    description:    to enable or disable pvp timer protection.
+  setborder:
+    aliases: [setbordersize]
+    description: Sets the border size of an Environment.
+  timer:
+    description: Command to manage timers.
+  reclaim:
+    aliases: ['claim']
+    description: Claims SOTW loot
+  ores:
+  coords:
+  revive:
+  staffrevive:
+    aliases: [forcerevive]
+  stats:
+  cobble:
+ # xray:
+  report:
+  request:
+    aliases: [helpop]
+  lives:
+  setbalance:
+  spawn:
+  staffmode:
+    aliases: [staff, mod]
+  legend:
+  punishment:
+    aliases: [punish]
+  mapkit:
+    aliases: [kits, kit, viewkit, serverkit, mkit]
+  blacklist:
+  unblacklist:
+  toggleend:
+  refund:
+  staffhelp:
+  koth:
+  teamspeak:
+    aliases: [ts]
+  mutechat:
+    aliases: [mc]
+  staffchat:
+    aliases: [sc]
+  vanish:
+    aliases: [v]
+  unmutechat:
+    aliases: [umc]
+  crowbar:
+  feedall:
+  keyall:
+  focus:
+  glowstone:
+  who:
+    aliases: [list]
+  ping:
+  commandtoggle:
+  setendexit:
+  setendentrance:
+  bottle:
+  tags:
+  grant:
+  scrolls:
+  panic:
+  setspawn:

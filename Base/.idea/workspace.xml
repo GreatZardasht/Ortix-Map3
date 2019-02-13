@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="LCore:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f0db06e9-c100-4dfe-9c0c-692315608799" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Para_Remake.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/PermissionsEx_1_23_4.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/worldguard_6_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/ClearLagg.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/CoreReload.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/IpHistoryCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/ListCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/PingCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/ReportCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/MobstackListener$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/MobstackListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/ClearLagg.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/CoreReload.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/IpHistoryCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/ListCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/PingCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/ReportCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/customhcf/base/listener/MobstackListener.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/H.xml" afterPath="$PROJECT_DIR$/.idea/libraries/AurumHCF.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/BasePlugin.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/BasePlugin.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/ProtocolHook.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/ProtocolHook.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/ServerHandler.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/ServerHandler.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/ChatModule.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/ChatModule.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/EssentialModule.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/EssentialModule.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/chat/AnnouncementCommand.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/chat/AnnouncementCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/chat/ToggleMessagesCommand.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/chat/ToggleMessagesCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/EnchantCommand.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/EnchantCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/FreezeCommand$1.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/FreezeCommand$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/FreezeCommand.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/FreezeCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/GamemodeCommand.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/GamemodeCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/PlayTimeCommand.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/PlayTimeCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/RequestCommand.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/RequestCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/SudoCommand.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/essential/SudoCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/inventory/GiveCommand.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/command/module/inventory/GiveCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/event/PlayerMessageEvent.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/event/PlayerMessageEvent.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/kit/KitExecutor.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/kit/KitExecutor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/kit/KitListener.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/kit/KitListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/kit/KitManager.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/kit/KitManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/ColouredSignListener.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/ColouredSignListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/DecreasedLagListener$1.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/DecreasedLagListener$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/DecreasedLagListener.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/DecreasedLagListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/JoinListener.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/JoinListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/NameVerifyListener.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/NameVerifyListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/PlayerLimitListener.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/PlayerLimitListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/ServerSecurityListener.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/ServerSecurityListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/VanishListener$1.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/VanishListener$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/VanishListener.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/listener/VanishListener.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/user/BaseUser.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/base/user/BaseUser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/util/BukkitUtils.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/util/BukkitUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/util/command/ArgumentExecutor.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/util/command/ArgumentExecutor.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/util/command/CommandWrapper$ArgumentComparator.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/util/command/CommandWrapper$ArgumentComparator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/util/command/CommandWrapper.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/util/command/CommandWrapper.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/util/itemdb/ManagedFile.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/util/itemdb/ManagedFile.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/com/customhcf/util/itemdb/SimpleItemDb.class" afterPath="$PROJECT_DIR$/out/production/LCore/com/customhcf/util/itemdb/SimpleItemDb.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/CollectionUtils.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/CollectionUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/IterableUtils.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/IterableUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/SplitMapUtils.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/SplitMapUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/bag/TreeBag.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/bag/TreeBag.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/bidimap/TreeBidiMap$Node.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/bidimap/TreeBidiMap$Node.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/collection/IndexedCollection.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/collection/IndexedCollection.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/comparators/ComparableComparator.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/comparators/ComparableComparator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/comparators/ComparatorChain.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/comparators/ComparatorChain.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/comparators/NullComparator.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/comparators/NullComparator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/comparators/TransformingComparator.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/comparators/TransformingComparator.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/functors/PrototypeFactory$PrototypeSerializationFactory.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/functors/PrototypeFactory$PrototypeSerializationFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/functors/PrototypeFactory.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/functors/PrototypeFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/keyvalue/AbstractKeyValue.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/keyvalue/AbstractKeyValue.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/keyvalue/AbstractMapEntry.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/keyvalue/AbstractMapEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/keyvalue/DefaultKeyValue.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/keyvalue/DefaultKeyValue.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/keyvalue/TiedMapEntry.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/keyvalue/TiedMapEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/list/AbstractLinkedList.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/list/AbstractLinkedList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/list/SetUniqueList.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/list/SetUniqueList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/list/TreeList$AVLNode.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/list/TreeList$AVLNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/map/AbstractHashedMap$HashEntry.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/map/AbstractHashedMap$HashEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/map/AbstractReferenceMap$ReferenceEntry.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/map/AbstractReferenceMap$ReferenceEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/map/AbstractReferenceMap.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/map/AbstractReferenceMap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/map/Flat3Map$FlatMapEntry.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/map/Flat3Map$FlatMapEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/map/LRUMap.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/map/LRUMap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/map/MultiKeyMap.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/map/MultiKeyMap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/map/ReferenceIdentityMap.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/map/ReferenceIdentityMap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/map/SingletonMap.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/map/SingletonMap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/map/StaticBucketMap$Node.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/map/StaticBucketMap$Node.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/multimap/AbstractMultiValuedMap$KeysMultiSet.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/multimap/AbstractMultiValuedMap$KeysMultiSet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/multiset/AbstractMultiSet$AbstractEntry.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/multiset/AbstractMultiSet$AbstractEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/trie/AbstractBitwiseTrie$BasicEntry.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/trie/AbstractBitwiseTrie$BasicEntry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/trie/AbstractPatriciaTrie$EntrySet.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/trie/AbstractPatriciaTrie$EntrySet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/trie/AbstractPatriciaTrie$KeySet.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/trie/AbstractPatriciaTrie$KeySet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/trie/AbstractPatriciaTrie$Values.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/trie/AbstractPatriciaTrie$Values.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.class" afterPath="$PROJECT_DIR$/out/production/LCore/org/apache/commons/collections4/trie/analyzer/StringKeyAnalyzer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/LCore_jar.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/LCore_jar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LCore.iml" afterPath="$PROJECT_DIR$/LCore.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugin.yml" afterPath="$PROJECT_DIR$/plugin.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/BasePlugin.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/BasePlugin.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/ServerHandler.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/ServerHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/command/module/ChatModule.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/command/module/ChatModule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/command/module/EssentialModule.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/command/module/EssentialModule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/command/module/chat/ClearChatCommand.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/command/module/chat/ClearChatCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/command/module/chat/ToggleMessagesCommand.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/command/module/chat/ToggleMessagesCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/FreezeCommand.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/FreezeCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/GamemodeCommand.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/GamemodeCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/PlayTimeCommand.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/PlayTimeCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/RequestCommand.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/RequestCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/command/module/inventory/GiveCommand.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/command/module/inventory/GiveCommand.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/command/module/warp/WarpExecutor.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/command/module/warp/WarpExecutor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/event/PlayerMessageEvent.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/event/PlayerMessageEvent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/kit/KitExecutor.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/kit/KitExecutor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/kit/KitListener.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/kit/KitListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/listener/ColouredSignListener.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/listener/ColouredSignListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/listener/DecreasedLagListener.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/listener/DecreasedLagListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/listener/JoinListener.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/listener/JoinListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/listener/NameVerifyListener.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/listener/NameVerifyListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/listener/PlayerLimitListener.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/listener/PlayerLimitListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/listener/ServerSecurityListener.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/listener/ServerSecurityListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/base/listener/VanishListener.java" afterPath="$PROJECT_DIR$/src/com/customhcf/base/listener/VanishListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/util/command/ArgumentExecutor.java" afterPath="$PROJECT_DIR$/src/com/customhcf/util/command/ArgumentExecutor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/customhcf/util/command/CommandWrapper.java" afterPath="$PROJECT_DIR$/src/com/customhcf/util/command/CommandWrapper.java" />
+    </list>
+    <ignored path="LCore.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="LCore" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ChatListener.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/listener/ChatListener.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="83" column="48" lean-forward="false" selection-start-line="83" selection-start-column="48" selection-end-line="83" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MoreCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/inventory/MoreCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/inventory/ItemCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClearChatCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/chat/ClearChatCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="40" column="47" lean-forward="false" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FreezeCommand.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/FreezeCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="147" column="300" lean-forward="false" selection-start-line="147" selection-start-column="300" selection-end-line="147" selection-end-column="300" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoteCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/NoteCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GiveCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/inventory/GiveCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1071">
+              <caret line="96" column="108" lean-forward="false" selection-start-line="96" selection-start-column="108" selection-end-line="96" selection-end-column="108" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plugin.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugin.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1173">
+              <caret line="69" column="2" lean-forward="false" selection-start-line="69" selection-start-column="2" selection-end-line="69" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EssentialModule.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/EssentialModule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StaffUtilitiesCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/StaffUtilitiesCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>request</find>
+      <find>Config</find>
+      <find>p</find>
+      <find>slowchat</find>
+      <find>MobSta</find>
+      <find>list</find>
+      <find>listwho</find>
+      <find>setOp</find>
+      <find>S</find>
+      <find>staffchat</find>
+      <find>Sound</find>
+      <find>donor</find>
+      <find>move</find>
+      <find>all</find>
+      <find>getRemainingServer</find>
+      <find>who</find>
+      <find>command</find>
+      <find>setMess</find>
+      <find>message</find>
+      <find>sound</find>
+      <find>Message</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/customhcf/util/player/PlayerUtil.java" />
+        <option value="$PROJECT_DIR$/src/org/apache/commons/collections4/set/CompositeSet.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/kit/argument/KitSetMaxUsesArgument.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/WhoisCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/chat/BroadcastCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/IpHistoryCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/chat/SlowChatCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/RepairCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/HealCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/SpeedCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/chat/AnnouncementCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/util/MapSorting.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/listener/ChatListener.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/util/itemdb/ItemData.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/util/itemdb/ItemDb.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/util/itemdb/ManagedFile.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/util/itemdb/SimpleItemDb.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/util/BukkitUtils.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/ReportCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/util/command/CommandWrapper.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/kit/KitExecutor.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/warp/WarpExecutor.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/RequestCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/kit/KitListener.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/ListCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/VanishCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/listener/VanishListener.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/listener/ColouredSignListener.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/listener/DecreasedLagListener.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/listener/MobstackListener.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/listener/NameVerifyListener.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/listener/PlayerLimitListener.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/listener/ServerSecurityListener.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/util/command/ArgumentExecutor.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/PlayTimeCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/PingCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/BasePlugin.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/ServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/GamemodeCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/chat/ToggleMessagesCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/listener/JoinListener.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/chat/SoundsCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/ChatModule.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/event/PlayerMessageEvent.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/inventory/Constants.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/inventory/GiveCommand.java" />
+        <option value="$PROJECT_DIR$/plugin.yml" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/EssentialModule.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/chat/ClearChatCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/FreezeCommand.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="1932" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customhcf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customhcf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="command" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customhcf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customhcf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="warp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customhcf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="listener" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customhcf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="command" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customhcf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="command" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customhcf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="command" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="warp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customhcf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="command" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="teleport" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customhcf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="command" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="inventory" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customhcf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="command" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="essential" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LCore" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="customhcf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="command" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/Cheater" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15820312" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="prop_add_unversioned_files" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LCore" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0db06e9-c100-4dfe-9c0c-692315608799" name="Default" comment="" />
+      <created>1470197242375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1470197242375</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1932" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35965848" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26565763" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977587" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/customhcf/util/itemdb/ManagedFile.java</url>
+          <line>70</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/kit/argument/KitListArgument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/kit/argument/KitApplyArgument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/kit/Kit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="117" column="19" lean-forward="false" selection-start-line="117" selection-start-column="19" selection-end-line="117" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/kit/KitExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="45" column="43" lean-forward="false" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/RemoveEntityCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="44" column="13" lean-forward="false" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/util/chat/Trans.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="137" column="0" lean-forward="false" selection-start-line="18" selection-start-column="7" selection-end-line="137" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/util/chat/TextUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="43" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/util/chat/Text.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="157" column="0" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="157" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/util/chat/Lang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="124" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/util/chat/HoverAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/util/chat/ClickAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/util/chat/ChatUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="109" column="0" lean-forward="false" selection-start-line="32" selection-start-column="7" selection-end-line="109" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/VanishCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/ClearLagg.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/PingCommand.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/listener/MobstackListener.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/WhoisCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="55" column="13" lean-forward="false" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/ListCommand.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/AutoRestartCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="109" column="39" lean-forward="false" selection-start-line="109" selection-start-column="39" selection-end-line="109" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/task/AutoRestartHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="83" column="17" lean-forward="false" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/listener/ColouredSignListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/chat/BroadcastCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="64" column="152" lean-forward="false" selection-start-line="64" selection-start-column="152" selection-end-line="64" selection-end-column="152" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/ServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2125">
+          <caret line="196" column="165" lean-forward="false" selection-start-line="196" selection-start-column="165" selection-end-line="196" selection-end-column="165" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/GamemodeCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="57" column="9" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/util/command/ArgumentExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="78" column="9" lean-forward="false" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/PlayTimeCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="54" column="39" lean-forward="false" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/BasePlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="210" column="17" lean-forward="false" selection-start-line="210" selection-start-column="17" selection-end-line="210" selection-end-column="17" />
+          <folding>
+            <element signature="e#8533#8534#0" expanded="true" />
+            <element signature="e#8579#8580#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/CommandManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/chat/AnnouncementCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/chat/ReplyCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/listener/JoinListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="54" column="40" lean-forward="false" selection-start-line="54" selection-start-column="40" selection-end-line="54" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/BaseCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="22" column="22" lean-forward="false" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/ChatModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="53" lean-forward="false" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/chat/SoundsCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/chat/ToggleMessagesCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="43" column="87" lean-forward="false" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/user/BaseUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3196">
+          <caret line="289" column="13" lean-forward="false" selection-start-line="289" selection-start-column="13" selection-end-line="289" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/chat/MessageCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="56" column="13" lean-forward="false" selection-start-line="56" selection-start-column="13" selection-end-line="56" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/event/PlayerMessageEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="82" column="87" lean-forward="false" selection-start-line="82" selection-start-column="87" selection-end-line="82" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/NoteCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/inventory/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/inventory/GiveCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="96" column="108" lean-forward="false" selection-start-line="96" selection-start-column="108" selection-end-line="96" selection-end-column="108" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/IpHistoryCommand.java" />
+    <entry file="file://$PROJECT_DIR$/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="69" column="2" lean-forward="false" selection-start-line="69" selection-start-column="2" selection-end-line="69" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/StaffUtilitiesCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/EssentialModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/listener/ChatListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="83" column="48" lean-forward="false" selection-start-line="83" selection-start-column="48" selection-end-line="83" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/inventory/MoreCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/inventory/ItemCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/chat/ClearChatCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="40" column="47" lean-forward="false" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/customhcf/base/command/module/essential/FreezeCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="147" column="300" lean-forward="false" selection-start-line="147" selection-start-column="300" selection-end-line="147" selection-end-column="300" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>LCore:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LCore</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8 (4)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>PermissionsEx-1.23.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

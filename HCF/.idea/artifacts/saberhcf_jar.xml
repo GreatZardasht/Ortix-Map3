@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="saberhcf:jar">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="saberhcf.jar">
+      <element id="module-output" name="saberhcf" />
+      <element id="file-copy" path="$PROJECT_DIR$/balances.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/enderdragon-art-old.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/enderdragon-art.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/event-schedules.txt" />
+      <element id="file-copy" path="$PROJECT_DIR$/glowstone.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/gopple-art.png" />
+      <element id="file-copy" path="$PROJECT_DIR$/items.csv" />
+      <element id="file-copy" path="$PROJECT_DIR$/kits.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/lang.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>

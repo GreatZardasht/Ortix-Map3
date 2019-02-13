@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LCore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Built Plugins/DuskHCF/LCore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

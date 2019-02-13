@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/McMas/Desktop/Desktop/Freddie&apos;s Folder/Vexus/Ortix Map 3 - src/Dependencies/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="C:/Users/McMas/Desktop/Desktop/Freddie&apos;s Folder/Vexus/Ortix Map 3 - src/Dependencies/Vault.jar"/>
+	<classpathentry kind="lib" path="C:/Users/McMas/Desktop/Desktop/Freddie&apos;s Folder/Vexus/Ortix Map 3 - src/Dependencies/worldedit-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/McMas/Desktop/Desktop/Freddie&apos;s Folder/Vexus/Ortix Map 3 - src/Dependencies/worldguard-6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/McMas/Desktop/Desktop/Freddie&apos;s Folder/Vexus/Ortix Map 3 - src/HCF.jar"/>
+	<classpathentry kind="lib" path="C:/Users/McMas/Downloads/paperspigot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/McMas/Desktop/Desktop/Dedi/Zora/Servers/Hub/plugins/Base.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/lombok.jar"/>
+	<classpathentry kind="lib" path="E:/Downloads/PermissionsEx-1.22.10.jar"/>
+	<classpathentry kind="output" path="out/production/AurumHCF"/>
+</classpath>

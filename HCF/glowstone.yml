@@ -1,0 +1,8 @@
+radius_glowstone_cuboid: 4
+coord_x: 399
+coord_y: 157
+coord_z: 400
+world_nether: true
+world: false
+material: 'GLOWSTONE'
+GSMountain_Reset: '&6&lECLIPSEHCF &7- &eGlowstone Mountain just reseted! (%x%, %y%, %z%)'
