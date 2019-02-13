@@ -1,10 +1,6 @@
-
 package com.customhcf.hcf;
 
-
 import com.customhcf.hcf.Utils.*;
-import com.bizarrealex.azazel.Azazel;
-import com.bizarrealex.azazel.tab.example.ExampleTabAdapter;
 import com.customhcf.base.BasePlugin;
 import com.customhcf.base.ServerHandler;
 import com.customhcf.hcf.balance.*;
@@ -94,8 +90,7 @@ import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.RegisteredServiceProvider;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class HCF
-extends JavaPlugin implements Listener {
+public class HCF extends JavaPlugin {
 
     public static Player target;
     public static Permission perms;
@@ -301,7 +296,7 @@ extends JavaPlugin implements Listener {
     private void registerListeners() {
         PluginManager manager = this.getServer().getPluginManager();
 
-        manager.registerEvents(this, this);
+        manager.registerEvents((Listener) this, this);
         manager.registerEvents(new DonorOnlyListener(), (Plugin)this);
         manager.registerEvents(new ArcherClass(this), (Plugin)this);
         manager.registerEvents(new PortalTrapFixListener(), (Plugin)this);

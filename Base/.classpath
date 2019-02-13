@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/brandon/Desktop/Test Server/exospigot-1.7.10-1.0.1-SNAPSHOT.jar"/>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/Users/McMas/Downloads/paperspigot.jar"/>
-	<classpathentry kind="lib" path="C:/Users/McMas/Desktop/Desktop/Freddie&apos;s Folder/Vexus/Ortix Map 3 - src/Dependencies/ProtocolLib.jar"/>
-	<classpathentry kind="lib" path="C:/Users/McMas/Desktop/Desktop/Freddie&apos;s Folder/Vexus/Ortix Map 3 - src/Dependencies/Vault.jar"/>
-	<classpathentry kind="lib" path="C:/Users/McMas/Desktop/Desktop/Freddie&apos;s Folder/Vexus/Ortix Map 3 - src/Dependencies/worldedit-6.0.0-SNAPSHOT.jar"/>
-	<classpathentry kind="lib" path="C:/Users/McMas/Desktop/Desktop/Freddie&apos;s Folder/Vexus/Ortix Map 3 - src/Dependencies/worldguard-6.1.jar"/>
-	<classpathentry kind="lib" path="E:/Downloads/PermissionsEx-1.22.10.jar"/>
-	<classpathentry kind="lib" path="C:/Users/McMas/Desktop/Desktop/Freddie&apos;s Folder/Vexus/Ortix Map 3 - src/HCF.jar"/>
+	<classpathentry kind="lib" path="D:/GItHub/Leaks/Ortix-Map3/Dependencies/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="D:/GItHub/Leaks/Ortix-Map3/Dependencies/Vault.jar"/>
+	<classpathentry kind="lib" path="D:/GItHub/Leaks/Ortix-Map3/Dependencies/worldedit-6.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/GItHub/Leaks/Ortix-Map3/Dependencies/worldguard-6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Dev shit/Plugin Depends/Lombok-1.6.6.jar"/>
+	<classpathentry kind="lib" path="F:/Dev shit/Plugin Depends/Prestige/PermissionsEx-1.23.3.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/HCF (Ortix)"/>
 	<classpathentry kind="output" path="out/production/LCore"/>
 </classpath>
